@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\Debug\ledblink.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ledblink.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ledblink.map</FILE>
+  <FILE>ledblink.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>88</LINE></start>
+  <TIM0_OVF_IT><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>160</LINE></TIM0_OVF_IT>
+  <TIM1_OVF_IT><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>170</LINE></TIM1_OVF_IT>
+  <loop><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>101</LINE></loop>
+  <LED_test><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>150</LINE></LED_test>
+  <LED_blink><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>113</LINE></LED_blink>
+  <as1><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>119</LINE></as1>
+  <blink><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>124</LINE></blink>
+  <nas><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>131</LINE></nas>
+  <DELAY_sub><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>137</LINE></DELAY_sub>
+  <loopocska><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>141</LINE></loopocska>
+  <loop_LEDtest><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>152</LINE></loop_LEDtest>
+  <veg><FILE>E:\AVR\atmelcods_on_arduino\asm\ledblink\ledblink\main.asm</FILE><LINE>166</LINE></veg>
+ </LABELS>
+</ASSEMBLER_INFO>
